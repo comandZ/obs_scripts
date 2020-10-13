@@ -3,9 +3,10 @@ This repository is used for storing and creating custom OBS add ons to be used w
 
 ## Project One: OBS Countdown Timer
 In order to do a timer for meetings we will be using Open Broadcaster Software (OBS) this system has many methods for broadcasting and for streaming presentations. I will cover methods using OBS and Zoom, and I will cover the following information:
+- Helpful Links For OBS Customization
 - Installing OBS on your machine
 - Connecting OBS to Zoom
 - Downloading Script Files Needed
 - Adding Timer To OBS Presentation
-- Helpful Links For OBS Customization
+
 ### OBS Installation
